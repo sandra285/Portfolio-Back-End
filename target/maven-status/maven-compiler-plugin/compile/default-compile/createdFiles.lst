@@ -1,0 +1,6 @@
+com\portfolio\sandrafabrizi\Controller\PersonaController.class
+com\portfolio\sandrafabrizi\Repository\IPersonaRepository.class
+com\portfolio\sandrafabrizi\Interface\IPersonaService.class
+com\portfolio\sandrafabrizi\SandrafabriziApplication.class
+com\portfolio\sandrafabrizi\Entity\Persona.class
+com\portfolio\sandrafabrizi\Service\ImpPersonaService.class
