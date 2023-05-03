@@ -1,6 +1,44 @@
-C:\Users\sandr\Documents\Cursos\Argentina Programa\Yo Programo\Proyecto final\sandrafabrizi\src\main\java\com\portfolio\sandrafabrizi\Interface\IPersonaService.java
-C:\Users\sandr\Documents\Cursos\Argentina Programa\Yo Programo\Proyecto final\sandrafabrizi\src\main\java\com\portfolio\sandrafabrizi\Controller\PersonaController.java
-C:\Users\sandr\Documents\Cursos\Argentina Programa\Yo Programo\Proyecto final\sandrafabrizi\src\main\java\com\portfolio\sandrafabrizi\SandrafabriziApplication.java
-C:\Users\sandr\Documents\Cursos\Argentina Programa\Yo Programo\Proyecto final\sandrafabrizi\src\main\java\com\portfolio\sandrafabrizi\Service\ImpPersonaService.java
-C:\Users\sandr\Documents\Cursos\Argentina Programa\Yo Programo\Proyecto final\sandrafabrizi\src\main\java\com\portfolio\sandrafabrizi\Entity\Persona.java
-C:\Users\sandr\Documents\Cursos\Argentina Programa\Yo Programo\Proyecto final\sandrafabrizi\src\main\java\com\portfolio\sandrafabrizi\Repository\IPersonaRepository.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Service\UserDetailsImpl.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Entity\Habilidades.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Service\RolService.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\jwt\JwtTokenFilter.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\jwt\JwtEntryPoint.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Controller\CFormacion.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Repository\RPersona.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Controller\CPersona.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Controller\CExperiencia.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Controller\CHabilidades.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Entity\Formacion.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Repository\RHabilidades.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Entity\Experiencia.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Repository\IRolRepository.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Entity\Proyectos.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Controller\Mensaje.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Service\SHabilidades.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Repository\RExperiencia.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Entity\Usuario.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Repository\RProyectos.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Entity\Rol.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Dto\dtoPersona.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\MainSecurity.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Entity\Persona.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Dto\LoginUsuario.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Service\SExperiencia.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Service\SPersona.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Dto\JwtDto.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Dto\NuevoUsuario.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Repository\RFormacion.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Controller\CProyectos.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Enums\RolNombre.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\jwt\JwtProvider.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Dto\dtoHabilidades.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Entity\UsuarioPrincipal.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Service\SFormacion.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Dto\dtoFormacion.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Service\SProyectos.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Dto\dtoProyectos.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\SandrafabriziApplication.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Service\UsuarioService.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Dto\dtoExperiencia.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Controller\AuthController.java
+C:\Users\sandr\Desktop\backend\src\main\java\com\portfolio\sandrafabrizi\Security\Repository\IUsuarioRepository.java
