@@ -29,11 +29,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/auth")
+@RequestMapping("auth")
 // Local
 //@CrossOrigin
 //Producción
-@CrossOrigin(origins = "https://portfoliosf-frontend.web.app")
+@CrossOrigin(origins = "https://portfoliosf-frontend.web.app/")
 
 public class AuthController {
     

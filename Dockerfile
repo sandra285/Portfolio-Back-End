@@ -1,4 +1,4 @@
-FROM amazoncorretto:8-alpine-jdk
+FROM amazoncorretto:8
 MAINTAINER sanf
 COPY target/sandrafabrizi-0.0.1-SNAPSHOT.jar backportfolio-app.jar
 ENTRYPOINT ["java","-jar","/backportfolio-app.jar"]
