@@ -33,7 +33,9 @@ import org.springframework.web.bind.annotation.RestController;
 // Local
 //@CrossOrigin
 //Producción
-@CrossOrigin(origins = "https://portfoliosf-frontend.web.app")
+//@CrossOrigin(origins = "https://portfoliosf-frontend.web.app")
+@CrossOrigin(origins = "**")
+
 
 public class AuthController {
     
@@ -57,13 +59,13 @@ public class AuthController {
     public ResponseEntity<?> nuevo(@Valid @RequestBody NuevoUsuario nuevoUsuario, BindingResult bindingResult){
         
         if(bindingResult.hasErrors())
-            return new ResponseEntity(new Mensaje("Campos mal puestos o emialinválido"), HttpStatus.BAD_REQUEST);
+            return new ResponseEntity(new Mensaje("Campos inválidos"), HttpStatus.BAD_REQUEST);
         
         if(usuarioService.existsByNombreUsuario(nuevoUsuario.getNombreUsuario()))
             return new ResponseEntity(new Mensaje("El nombre de usuario ya existe"), HttpStatus.BAD_REQUEST);
         
         if(usuarioService.existsByEmail(nuevoUsuario.getEmail()))
-            return new ResponseEntity(new Mensaje("El email ya existe"), HttpStatus.BAD_REQUEST);
+            return new ResponseEntity(new Mensaje("El correo electrónico ya existe"), HttpStatus.BAD_REQUEST);
         
         Usuario usuario = new Usuario(nuevoUsuario.getNombre(), 
                                       nuevoUsuario.getNombreUsuario(), 
