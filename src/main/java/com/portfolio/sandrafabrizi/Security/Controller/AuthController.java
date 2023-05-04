@@ -33,9 +33,7 @@ import org.springframework.web.bind.annotation.RestController;
 // Local
 //@CrossOrigin
 //Producción
-//@CrossOrigin(origins = "https://portfoliosf-frontend.web.app")
-@CrossOrigin(origins = "**")
-
+@CrossOrigin(origins = "https://portfoliosf-frontend.web.app")
 
 public class AuthController {
     
