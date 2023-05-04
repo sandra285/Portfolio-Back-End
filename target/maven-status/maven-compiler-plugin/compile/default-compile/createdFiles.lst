@@ -32,6 +32,7 @@ com\portfolio\sandrafabrizi\Security\Enums\RolNombre.class
 com\portfolio\sandrafabrizi\Security\Repository\IRolRepository.class
 com\portfolio\sandrafabrizi\Security\Service\RolService.class
 com\portfolio\sandrafabrizi\Dto\dtoExperiencia.class
+com\portfolio\sandrafabrizi\WebConfig.class
 com\portfolio\sandrafabrizi\Dto\dtoFormacion.class
 com\portfolio\sandrafabrizi\Entity\Proyectos.class
 com\portfolio\sandrafabrizi\Security\Controller\AuthController.class
